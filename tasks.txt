@@ -1,0 +1,20 @@
+Relevante:
+- Descargar las bases de datos
+- Buscar gaceta oficial del ano 1990 en fisico
+- Averiguar klk con el ano 1994. Que significan las celda
+- Agregar datos de las elecciones del 2002 para el nivel a y nivel b
+
+
+
+
+
+
+
+Para final:
+- Averiguar cuales fueron las coaliciones para aquellos anos que solo nos dan partidos
+- Averiguar cuales son los partidos para aquellos que solo nos dan coaliciones
+
+PolRD v1.02
+- Trabajar con Base de Datos de los candidatos
+
+
