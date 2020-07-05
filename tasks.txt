@@ -3,6 +3,7 @@ Relevante:
 - Buscar gaceta oficial del ano 1990 en fisico
 - Averiguar klk con el ano 1994. Que significan las celda
 - Agregar datos de las elecciones del 2002 para el nivel a y nivel b
+-Mandarle los cambios a Pablo
 
 
 
