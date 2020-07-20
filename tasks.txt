@@ -1,22 +1,23 @@
-Relevante:
-- Descargar las bases de datos
+Para Pablo:
+- Descargar las bases de datos relevantes
+- Buscar los datos de niveles de riqueza a nivel del individuo en dominicana
+
+
+Para Magdalena:
+- Agregué el libro R4DS al repositorio dentro del folder literatura;
+	Los capítulos relevantes para trabajar con las bases de datos son el capítulo 3 y 10 sobre el paquete "dplyr"
+	En caso de ser necesario, puedes leer el capítulo 8 para importar datos de excel a R y el capítulo 13 para trabajar 
+	con datos de tipo "fecha". 
+- Recomiendo practicar con la base de datos de 1962 y ponerla en el formato que hay en "formato_tablas.xlsx"
+	Yo luego puedo ocuparme de automatizar tu codigo para que las demas tablas similares se hagan de manera automatica
+
+
+Para despues:
+- Averiguar cuales fueron las coaliciones para aquellos anos que solo nos dan partidos
+- Averiguar cuales son los partidos para aquellos que solo nos dan coaliciones
+- Trabajar con Base de Datos de los candidatos
 - Buscar gaceta oficial del ano 1990 en fisico
 - Averiguar klk con el ano 1994. Que significan las celda
 - Agregar datos de las elecciones del 2002 para el nivel a y nivel b
--Mandarle los cambios a Pablo
-- Decirle a Ma que ya hice los cambios
-
-
-
-
-
-
-
-Para final:
-- Averiguar cuales fueron las coaliciones para aquellos anos que solo nos dan partidos
-- Averiguar cuales son los partidos para aquellos que solo nos dan coaliciones
-
-PolRD v1.02
-- Trabajar con Base de Datos de los candidatos
 
 
