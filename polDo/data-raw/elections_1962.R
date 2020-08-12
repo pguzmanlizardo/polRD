@@ -3,9 +3,10 @@
 stopifnot(requireNamespace("readr", quietly = TRUE))
 stopifnot(requireNamespace("stringr", quietly = TRUE))
 stopifnot(requireNamespace("dplyr", quietly = TRUE))
+library(dplyr)
 
 # Load the raw data for the 1962 election
-elections_1962 <- readr::read_csv("data-raw/datasets/elecciones_1962_raw.csv",
+elections_1962 <- readr::read_csv("data-raw/raw_datasets/elecciones_1962_raw.csv",
                                   col_names = FALSE)
 #View(elections_1962)
 
@@ -28,7 +29,6 @@ names(elections_1962)[1] <- "region"
 # We do not need them anymore. Thus eliminate them
 elections_1962 <- tail(elections_1962, n = -5)
 
-
-
-
-
+# Save the elections_1962 data frame so that it can be seen in excel
+readr::write_csv(elections_1962,
+                 path = "data-raw/clean_datasets/elecciones_1962_clean.csv")
