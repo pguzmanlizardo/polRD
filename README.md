@@ -1,2 +1,2 @@
 # polRD
-Este proyecto obtiene los documentos necesarios para el paquete PolRD
+Este proyecto obtiene los documentos necesarios para el paquete PolDo
