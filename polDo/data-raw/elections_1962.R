@@ -140,11 +140,10 @@ elections_1962$siglas <- NA
 # Select the dataset in the right order
 elections_1962 <- elections_1962 %>%
   dplyr::select(`año`, departamento, provincia, municipio, nivel, vuelta,
-                coalicion, partido_lider, partido, siglas)
+                coalicion, partido_lider, partido, siglas, votos)
 
 
 # SAVE ------------------------------------------------------------------------
 # Save the elections_1962 data frame so that it can be seen in excel
 readr::write_csv(elections_1962,
                  path = "data-raw/clean_datasets/elecciones_1962_clean.csv")
-
